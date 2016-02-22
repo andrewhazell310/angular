@@ -1,0 +1,68 @@
+{
+  "user_name": "Username",
+  "name": "Name",
+  "last_name": "Last Name",
+  "email": "example@example.com",
+  "birth_day": "01.01.2016",
+  "status": true,
+  "profile_imane": "http://ulchemy.in/wp-content/uploads/2010/09/Caucasian_boss1-300x300.png",
+  "general":{
+      "gender": "Male",
+      "age": "35",
+      "horoscope": "Taurus",
+      "country": "Russia",
+      "state": "Russia",
+      "languages": ["Russian", "English"]
+    },
+  "contacts": [
+    {
+      "img": "http://ulchemy.in/wp-content/uploads/2010/09/Caucasian_boss1-50x50.png",
+      "user_name": "UserName",
+      "status": true
+    },
+    {
+      "img": "http://ulchemy.in/wp-content/uploads/2010/09/Caucasian_boss1-50x50.png",
+      "user_name": "UserName",
+      "status": true
+    },
+    {
+      "img": "http://ulchemy.in/wp-content/uploads/2010/09/Caucasian_boss1-50x50.png",
+      "user_name": "UserName"
+    },
+    {
+      "img": "http://ulchemy.in/wp-content/uploads/2010/09/Caucasian_boss1-50x50.png",
+      "user_name": "UserName",
+      "status": false
+    },
+    {
+      "img": "http://ulchemy.in/wp-content/uploads/2010/09/Caucasian_boss1-50x50.png",
+      "user_name": "UserName",
+      "status": true
+    },
+    {
+      "img": "http://ulchemy.in/wp-content/uploads/2010/09/Caucasian_boss1-50x50.png",
+      "user_name": "UserName",
+      "status": true
+    },
+    {
+      "img": "http://ulchemy.in/wp-content/uploads/2010/09/Caucasian_boss1-50x50.png",
+      "user_name": "UserName",
+      "status": true
+    },
+    {
+      "img": "http://ulchemy.in/wp-content/uploads/2010/09/Caucasian_boss1-50x50.png",
+      "user_name": "UserName",
+      "status": false
+    },
+    {
+      "img": "http://ulchemy.in/wp-content/uploads/2010/09/Caucasian_boss1-50x50.png",
+      "user_name": "UserName",
+      "status": true
+    },
+    {
+      "img": "http://ulchemy.in/wp-content/uploads/2010/09/Caucasian_boss1-50x50.png",
+      "user_name": "UserName",
+      "status": true
+    }
+  ]
+}
